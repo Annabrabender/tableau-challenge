@@ -11,3 +11,6 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 
 Please see TextAnalysis.txt for written out analysis. 
+
+
+Please note I could not include the csv files for 2022 and 2023 and combined years as they were too large to submit.
