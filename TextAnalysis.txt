@@ -1,0 +1,14 @@
+Analysis - text content 
+
+This analysis is within the Tableau story, however I have typed it out here for easy reading.
+
+The story includes two intial dahsboard that show the charts for 2022 and 2023. 
+
+The analysis begins with looking at a map comparion of the start stations. We can see that there where more in 2023. The more red the station is coloured, the higher the count was.
+
+The next dashboard in the story shows analysis of usage of the different bikes per month. We can see that the summer months were more popular overall in 2022 and 2023. Classic bikes are the most used, and we can see they pick up slightly later in the year than electric bikes do. 
+
+The next story slide has the ride types. In both 2022 and 2023, members rode more than casual riders. In 2022 there was a higher percenatge of riders using electric bikes compared to 2023. 
+
+The next story shows the starting station popularity. In both 2022 and 2023 the Grove St PATH was the most popular starting station. Upon researching, this is a active public transport spot which likely contributes to this.
+
